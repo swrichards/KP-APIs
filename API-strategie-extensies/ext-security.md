@@ -248,7 +248,7 @@ https://tools.ietf.org/html/rfc7231#section-6.5.4
 
 **Explicit authentication while matching client authorization (`cnf`)**
 
-When authentication is explicit and there is a check whether the provided authorization confirmation claim (`cnf`, see [[rfc7800]]) matches the credentials provided for authentication use the flow chart in figure 3 to esteblish the correct error codes.
+When authentication is explicit and there is a check whether the provided authorization confirmation claim (`cnf`, see [[rfc7800]]) matches the credentials provided for authentication use the flow chart in figure 3 to establish the correct error codes.
 
 ![](media/HTTP-FlowChart3.PNG)
 
